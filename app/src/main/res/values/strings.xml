@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get Weather</string>
+    <string name="click_me">Click_Me</string>
+    <string name="get_location">Get Location</string>
+</resources>
